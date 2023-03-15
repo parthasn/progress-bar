@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+.progressBarContainer{
+    height: 20px;
+    width: 75%;
+    border-radius: 10px;
+    background: rgb(212, 212, 212);
+    overflow: hidden;
+
+}
+
+.progressBar{
+    height: 100%;
+    background: rgb(86, 86, 252);
+    border-radius: 10px;
+}
